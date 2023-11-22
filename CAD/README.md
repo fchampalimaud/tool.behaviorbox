@@ -7,19 +7,19 @@ Please see below a generic description of the files in this directory:
 
 |File name | Description|
 |-|-|
-|Mouse_Behavior_Box_v1_5mm_Base | 5mm acrylic parts for the base |
-|Mouse_Behavior_Box_v1_5mm_Transp_Acryl_Main | 5mm acrylic parts for the box |
-|Mouse_Behavior_Box_v1_5mm_White_Acryl_Main_Pokes | 5mm acrylic parts for the box and pokes |
-|Mouse_Behavior_Box_v1_5mm_White_Acryl_Pokes | 5mm acrylic parts for the pokes |
-|Mouse_Lever_Parts_2mm_White_Set_8 | 2mm acrylic parts for the levers (8x set) |
-|Mouse_Lever_Parts_5mm_White_Set_8 | 5mm acrylic parts for the levers (8x set) |
+|Mouse_Behavior_Box_v1_5mm_Base.pdf | 5mm acrylic parts for the base |
+|Mouse_Behavior_Box_v1_5mm_Transp_Acryl_Main.pdf | 5mm acrylic parts for the box |
+|Mouse_Behavior_Box_v1_5mm_White_Acryl_Main_Pokes.pdf | 5mm acrylic parts for the box and pokes |
+|Mouse_Behavior_Box_v1_5mm_White_Acryl_Pokes.pdf | 5mm acrylic parts for the pokes |
+|Mouse_Lever_Parts_2mm_White_Set_8.pdf | 2mm acrylic parts for the levers (8x set) |
+|Mouse_Lever_Parts_5mm_White_Set_8.pdf | 5mm acrylic parts for the levers (8x set) |
 
 
 ## Bill of Materials ##
 
 |File name | Description|
 |-|-|
-|Behavior_Box_v1_BOM | Behavior box list of materials|
+|Behavior_Box_v1_BOM.xlsx | Behavior box list of materials|
  
 ## 3D Model ##
 
